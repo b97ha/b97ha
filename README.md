@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Yahoo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 
 <br />
 
@@ -53,3 +54,4 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/bahajoher
 [youtube]: https://www.linkedin.com/in/baha-joher-5904a4181/
 [instagram]: https://www.instagram.com/b97ha
+[yahoo]: mailto:bahasa97@yahoo.com

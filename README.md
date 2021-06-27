@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **b97ha/b97ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Baha - Saleem  👋
+### Hi there, I'm Baha Saleem  👋
 ---
 ## Great Spirit.
-- 🧐 learning ASP.NET Core.
+- 🧐 Full Stack Developer.
+- 🔭 I’m currently working on <a href='kf.iq'>AL-Kafeel Center For Informaton Technology</a>.
+- 🙂 Asp .Net Framework, Asp .Net Core & C# for backend.
+- 🌱 Vue.js and vuetify frontend.
 - 😊 I’m looking to learn more and be creative.
-- 🙂 2021 Goals: Making money of programming applications (DONE 😀).
-- 😁 Fun facts: I love Photography 📷 and Gaming 🎮.
+- 💬 I Love Sports and Gaming 🎮.
 
 ### Connect with me:
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Zaid - AKA Kindman 👋
+### Hi there, I'm Baha - Saleem  👋
 ---
 ## Great Spirit.
 - 🧐 learning ASP.NET Core.
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[twitter]: https://twitter.com/ZaidKindman
-[facebook]: https://www.facebook.com/ZaidKindman
+[twitter]: https://twitter.com/Baha_Joher
+[facebook]: https://www.facebook.com/bahajoher
 [youtube]: https://www.youtube.com/channel/UCIetMIJFjXOLK5xVpENjtFw?view_as=subscriber
-[instagram]: https://www.instagram.com/zaidkindman/?hl=en
+[instagram]: https://www.instagram.com/b97ha

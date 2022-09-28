@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🙂 Asp .Net Framework, Asp .Net Core & C# for backend.
 - 🌱 Vue.js and vuetify frontend.
 - 😊 I’m looking to learn more and be creative.
-- 💬 I Love Sports and Gaming 🎮.
 
 ### Connect with me:
 

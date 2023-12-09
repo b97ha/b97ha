@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 ## Great Spirit.
 - 🧐 Full Stack Developer.
-- 🔭 I’m currently working at <a href='https://kf.iq'>AL-Kafeel Center For Informaton Technology</a>.
+<!-- - 🔭 I’m currently working at <a href='https://kf.iq'>AL-Kafeel Center For Informaton Technology</a>. -->
 - 🙂 Asp .Net Framework, Asp .Net Core & C# for backend.
 - 🌱 Vue.js and vuetify frontend.
 - 😊 I’m looking to learn more and be creative.
